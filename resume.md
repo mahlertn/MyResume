@@ -21,6 +21,4 @@ My past experiences have attributed to my desire to contribute to community deve
 - Self-Management
 - Research and Analysis
 
-
-
-![This is an image]()
+<img src="image.jpg" width="200"/>
